@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# EthereumCasts
-Companion repo to an Ethereum/Solidity course on Udemy
-=======
+
 # Lottery Smart Contract using Enthereum Network and Architecture
 
 This is an ongoing project.
